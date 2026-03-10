@@ -1,4 +1,4 @@
-# OSIRIS Real Worl Data Working Group (OSIRIS RWD)
+# OSIRIS Real World Data Working Group (OSIRIS RWD)
 -------------- *English below* --------------------- 
 
 Ce dossier est en cours de construction.
