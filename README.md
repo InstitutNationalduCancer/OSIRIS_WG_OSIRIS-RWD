@@ -29,9 +29,7 @@ OSIRIS RWD targets **routine-care, real-world conditions**, where data quality, 
 | **Data population guide** | `OSIRIS_RWD_Guide_d_alimentation_*.docx` | Per-variable population rules, edge cases, examples, generic rules, and annexes. (Currently in French.) |
 | **Physical model** | `OSIRIS_RWD_Physical_model_*.png` | Entity-relationship diagram (keys, cardinalities, foreign keys). |
 | **Changelog** | `OSIRIS_RWD_Changelog_*.xlsx` | Version-to-version changes, each tagged with a GitHub issue number and a **retro-compatibility impact** flag. |
-| **REDCap data dictionary** *(forthcoming)* | `redcap/OSIRIS_RWD_REDCap_DataDictionary_*.csv` | REDCap-importable definition of the model as an eCRF — instruments, fields, types, value sets, and branching logic. **Planned, not yet released.** |
-
-> The REDCap data dictionary and its companion code lists are **in preparation**; see [Data capture with REDCap](#data-capture-with-redcap-forthcoming) below.
+| **REDCap data dictionary**| `redcap/OSIRIS_RWD_REDCap_DataDictionary_*.csv` OR `redcap/OSIRIS_RWD_REDCap_Project_*.xml` | REDCap-importable definition of the model as an eCRF — instruments, fields, types, value sets, and branching logic.|
 
 ---
 
